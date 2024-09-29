@@ -2,11 +2,11 @@
 
 In this repository you can find documentation about projects in which I have participated over the years, in chronological order: 
 
-- Ka-poong!: academic project developed with Unity.
-- Conventio lutheri: academic project developed with Unity.
-- Hockey shot: academic project developed with Unity, platform mobile devices.
-- The last tide: academic project developed on Unreal 5
-- V's Rage: project created by NewBix that I collaborated on, developed with Unity, for NDA reasons I can only show the part about the playable demo on Steam. 
+- Ka-poong!: academic project developed with Unity, PC.
+- Conventio lutheri: academic project developed with Unity, PC.
+- Hockey shot: academic project developed with Unity, Mobile devices.
+- The last tide: academic project developed on Unreal 5, PC.
+- V's Rage: project created by NewBix that I collaborated on, developed with Unity, PC. Mac, Linux. For NDA reasons I can only show the part about the playable demo on Steam
 
 You can see more of my work on my portfolio at the link: [https://davidegarassino.wordpress.com/?_gl=1*a7uv36*_gcl_au*MTEyNDgyMDA0MC4xNzI3MTg0MzQz](url)
 
