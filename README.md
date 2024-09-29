@@ -15,5 +15,6 @@ You can contact me directly on the email: garassino.davide@outlook.it
 If you want this is my linkedin account, to keep in touch: [https://www.linkedin.com/in/davide-garassino-088a00276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiNUrz%2BNbQYa4RV4oINv8hg%3D%3D](url)
 
 All documents in this repository are my property and disclosure without prior consent is not authorized.
+
 In compliance with the Italian legislative Decree no. 196 dated 30/06/2003 and subsequent updates, I hereby authorize you to use and process my personal details contained on this repository.
 
