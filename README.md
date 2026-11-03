@@ -18,6 +18,6 @@ Design documents from the projects I've worked on, newest first. More about each
 
 ## Contact
 - Email: garassino.davide@outlook.it
-- LinkedIn: https://www.linkedin.com/in/davide-garassino-088a00276
+- LinkedIn: https://www.linkedin.com/in/davidegarassino
 
 All documents are my property. Please don't redistribute them without my consent.
