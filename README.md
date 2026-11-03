@@ -1,6 +1,6 @@
 # Portfolio documentation
 
-Design documents from the projects I've worked on, newest first. More about each project on my portfolio: https://davidegarassino.wordpress.com
+Design documents from the projects I've worked on, newest first. More about each project on my portfolio: https://davidegarassino.github.io
 
 ## Professional
 - **Sol Protocol** (Singular Perception) – Unreal Engine, Meta Quest 3/3S & PC. Early Access on Steam and Meta Store, September 2026.
@@ -20,4 +20,4 @@ Design documents from the projects I've worked on, newest first. More about each
 - Email: garassino.davide@outlook.it
 - LinkedIn: https://www.linkedin.com/in/davidegarassino
 
-All documents are my property. Please don't redistribute them without my consent.
+Game titles, logos and images belong to their respective owners. These documents are shared for portfolio purposes only: please don't redistribute them without permission.
